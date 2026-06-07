@@ -87,7 +87,7 @@ Apple は、デバイス設定で許可されている場合に限り、Apple �
 プライバシーに関するご質問は以下までご連絡ください:
 
 **noels works**
-Email: [連絡先メール TBD]
+Email: info@noelsandco.com
 
 ---
 

@@ -97,7 +97,7 @@ noels works (以下「当方」) が開発する **Todonize** (以下「本ア�
 本規約に関するご質問は以下までご連絡ください:
 
 **noels works**
-Email: [連絡先メール TBD]
+Email: info@noelsandco.com
 
 ---
 

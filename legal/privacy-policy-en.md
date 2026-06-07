@@ -87,7 +87,7 @@ We may update this Privacy Policy from time to time. Material changes will be co
 For privacy-related questions, please contact:
 
 **noels works**
-Email: [Contact email TBD]
+Email: info@noelsandco.com
 
 ---
 
