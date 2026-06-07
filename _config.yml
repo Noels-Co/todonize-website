@@ -1,0 +1,19 @@
+title: Todonize
+description: Legal documents and support for Todonize — a SwiftUI + CloudKit todo app.
+url: https://todonize.noelsandco.com
+baseurl: ""
+
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-sitemap
+
+# Pretty URLs (drop .html extension)
+permalink: pretty
+
+exclude:
+  - README.md
+  - legal/README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
