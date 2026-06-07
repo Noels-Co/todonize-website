@@ -97,7 +97,7 @@ These Terms are governed by the laws of Japan, without regard to its conflict-of
 For questions about these Terms, please contact:
 
 **noels works**
-Email: [Contact email TBD]
+Email: info@noelsandco.com
 
 ---
 
