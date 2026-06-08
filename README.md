@@ -10,10 +10,6 @@
 - `CNAME` — Custom domain (todonize.noelsandco.com)
 - `HOSTING_SETUP.md` — GitHub Pages + DNS の初期セットアップ手順
 
-## 関連リポジトリ
-
-- [Noels-Co/todonize](https://github.com/Noels-Co/todonize) — Todonize アプリ本体 (Private)
-
 ## デプロイ
 
 `main` ブランチに push すると GitHub Pages が自動的に再ビルドして公開します。
